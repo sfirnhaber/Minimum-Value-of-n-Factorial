@@ -1,0 +1,1 @@
+# Minimum-Value-of-n-Factorial
